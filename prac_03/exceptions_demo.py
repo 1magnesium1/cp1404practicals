@@ -6,7 +6,7 @@ Value error occurs when a string or floating point is entered.
 2. When will a ZeroDivisionError occur?
 Occurs when division by zero is attempted.
 3. Could you change the code to avoid the possibility of a ZeroDivisionError?
-You could use a while loop. To loop while a zero is entered."""
+You could use a while loop. To loop while a zero is entered.."""
 
 try:
     numerator = int(input("Enter the numerator: "))
