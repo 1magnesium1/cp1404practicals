@@ -1,3 +1,8 @@
+"""
+CP1404/CP5632 Practical
+Kivy GUI program to demonstrate kivy layout
+Started 27/07/25
+"""
 from kivy.app import App
 from kivy.lang import Builder
 
