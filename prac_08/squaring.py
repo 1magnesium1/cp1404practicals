@@ -1,5 +1,5 @@
 """
-CP1404/CP5632 Practical
+CP1404/CP5632 Practicals
 Kivy GUI program to square a number
 Started 27/07/25
 """
