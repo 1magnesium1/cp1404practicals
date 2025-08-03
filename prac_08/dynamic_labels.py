@@ -1,3 +1,8 @@
+"""
+CP1404/CP5632 Practical
+Kivy GUI program to display a list of names
+Started 27/07/25
+"""
 from kivy.app import App
 from kivy.lang import Builder
 from kivy.uix.label import Label
