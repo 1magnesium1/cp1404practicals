@@ -4,7 +4,7 @@ from prac_09.car import Car
 
 
 class UnreliableCar(Car):
-    """Specialized version of caar that includes reliability"""
+    """Specialized version of car that includes reliability"""
 
     def __init__(self, name, fuel, reliability):
         """Initialise unreliable car"""
